@@ -8,7 +8,7 @@ This project combines a responsive frontend (HTML, CSS, JavaScript) with a Pytho
 
 README introduction
 
-#ai study assistant
+# AI STUDY ASSISTANT
 
 A web application built using HTML, CSS, JavaScript, and Python.
 
